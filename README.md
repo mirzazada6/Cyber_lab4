@@ -1,5 +1,5 @@
 # Critical vulnerabilities
-![Alt text](https://github.com/mirzazada6/Cyber_lab4/blob/main/Nessus_critical_1.jpg?raw=true)
+![Alt text](https://github.com/mirzazada6/Cyber_lab4/blob/main/Nessus_critical.jpg?raw=true)
 
 # High vulnerabilities
 ![Alt text](https://github.com/mirzazada6/Cyber_lab4/blob/main/Nessus_high_2.jpg?raw=true)
